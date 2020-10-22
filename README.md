@@ -14,7 +14,7 @@ RLtrack:
 Demo and code for Motion Status Prediction model.  
 --Demo & Experiments: RLpre_demo.m in https://github.com/painshine/myRLtrack/tree/master/RLtrack/code/myRLtrack  
 --Formula: RLS_equations in https://github.com/painshine/myRLtrack/tree/master/RLtrack/code  
---The model in this version predict 11 kinds of motion state based on reinforcement learning, and we'll update the latest organized code in the near future.  
+--The model in this version predicts 11 kinds of motion state based on reinforcement learning, and we'll update the latest organized code in the near future.  
 
 ICF_code:  
 Demo and code for iterative correlation filters.  
