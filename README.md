@@ -20,6 +20,6 @@ ICF_code:
 Demo and code for iterative correlation filters.  
 --Demo: demo.m in https://github.com/painshine/myRLtrack/tree/master/ICF_code/AutoTrack3  
 --The code in this project is based on the AutoTrack [CVPR 2020] (https://arxiv.org/pdf/2003.12949.pdf)  
-We'll update the latest organized code based on the GFS-DCF [ICCV 2019]  (https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf) in the near future.  
+We'll update the latest organized code based on the GFS-DCF [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf) in the near future.  
 --Results data: results_base_Autotrack.rar in https://github.com/painshine/myRLtrack/tree/master/ICF_code/AutoTrack3  
 
